@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afb128165a517d16",
+        "id": "73b35146677fedd6",
         "type": "tabs",
         "children": [
           {
-            "id": "03a246b75ec7b48e",
+            "id": "a75ac43685ace201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/BM25.md",
+                "file": "wiki/queries/research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BM25"
+              "title": "research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 249.5
   },
   "right": {
     "id": "57958ec49b42bccd",
@@ -201,7 +201,7 @@
               "type": "agent-client-chat-view",
               "state": {},
               "icon": "bot-message-square",
-              "title": "New session"
+              "title": "/init"
             }
           }
         ],
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,23 +227,24 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "03a246b75ec7b48e",
+  "active": "1ac730e93a0ee065",
   "lastOpenFiles": [
-    "wiki/concepts/文档长度归一化.md",
     "wiki/queries/research-建立中文检索评测与参数调优资料-2026-07-13-160640.md",
-    "wiki/queries/research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638.md",
-    "wiki/concepts/词频饱和.md",
     "wiki/queries/中文RAG中的BM25如何调优.md",
+    "AGENTS.md",
+    "wiki/queries/research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638.md",
     "wiki/concepts/TF-IDF.md",
+    "wiki/concepts/信息检索.md",
+    "wiki/concepts/重排序.md",
+    "wiki/concepts/混合检索.md",
+    "wiki/concepts/文档长度归一化.md",
+    "wiki/concepts/IDF.md",
+    "wiki/concepts/BM25.md",
+    "wiki/concepts/词频饱和.md",
     "wiki/comparisons/bm25-与-tf-idf.md",
     "wiki/concepts/RAG.md",
-    "wiki/concepts/混合检索.md",
-    "wiki/concepts/重排序.md",
     "wiki/concepts/向量检索.md",
     "wiki/concepts/词法检索.md",
-    "wiki/concepts/IDF.md",
-    "wiki/concepts/信息检索.md",
-    "wiki/concepts/BM25.md",
     "wiki/sources/BM25算法详解.md",
     "raw/sources/BM25算法详解.md",
     "schema.md",
@@ -264,7 +265,6 @@
     "tmp/wiki/overview.md",
     "tmp/wiki/index.md",
     "tmp/wiki/log.md",
-    "tmp/schema.md",
     "wiki/media/ma-2026-4lhih42d__J4P3FBWC/mineru/images/f61c1b1c2cc8b2fd223bcc2c3f84446cdcdc7c53c6ccaa705c20f972e56a5d57.jpg",
     "wiki/media/ma-2026-4lhih42d__J4P3FBWC/mineru/images/d66695407aba5d1a6c186b2ab36fd87baf0385b15510262c42feb2f24d3de530.jpg",
     "wiki/media/ma-2026-4lhih42d__J4P3FBWC/mineru/images/d61a46f053c5e41106568d6d68f3be70a1e44e91d786e5fd9ac8419d3e714f52.jpg",

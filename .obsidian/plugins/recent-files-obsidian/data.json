@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "BM25",
-      "path": "wiki/concepts/BM25.md"
+      "basename": "research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638",
+      "path": "wiki/queries/research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638.md"
+    },
+    {
+      "basename": "research-建立中文检索评测与参数调优资料-2026-07-13-160640",
+      "path": "wiki/queries/research-建立中文检索评测与参数调优资料-2026-07-13-160640.md"
+    },
+    {
+      "basename": "中文RAG中的BM25如何调优",
+      "path": "wiki/queries/中文RAG中的BM25如何调优.md"
+    },
+    {
+      "basename": "AGENTS",
+      "path": "AGENTS.md"
+    },
+    {
+      "basename": "TF-IDF",
+      "path": "wiki/concepts/TF-IDF.md"
+    },
+    {
+      "basename": "信息检索",
+      "path": "wiki/concepts/信息检索.md"
+    },
+    {
+      "basename": "重排序",
+      "path": "wiki/concepts/重排序.md"
+    },
+    {
+      "basename": "混合检索",
+      "path": "wiki/concepts/混合检索.md"
     },
     {
       "basename": "文档长度归一化",
       "path": "wiki/concepts/文档长度归一化.md"
     },
     {
-      "basename": "词频饱和",
-      "path": "wiki/concepts/词频饱和.md"
+      "basename": "IDF",
+      "path": "wiki/concepts/IDF.md"
     },
     {
-      "basename": "中文RAG中的BM25如何调优",
-      "path": "wiki/queries/中文RAG中的BM25如何调优.md"
+      "basename": "BM25",
+      "path": "wiki/concepts/BM25.md"
+    },
+    {
+      "basename": "词频饱和",
+      "path": "wiki/concepts/词频饱和.md"
     },
     {
       "basename": "BM25算法详解",

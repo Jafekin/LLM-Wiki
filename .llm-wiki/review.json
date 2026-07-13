@@ -138,7 +138,8 @@
       }
     ],
     "id": "review-4945348a",
-    "resolved": false,
-    "createdAt": 1783958964127
+    "resolved": true,
+    "createdAt": 1783958964127,
+    "resolvedAction": "Skip"
   }
 ]

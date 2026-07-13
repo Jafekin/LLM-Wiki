@@ -16,5 +16,6 @@
   "dataview",
   "obsidian-outliner",
   "obsidian-another-quick-switcher",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "convert-katex-to-mathjax"
 ]

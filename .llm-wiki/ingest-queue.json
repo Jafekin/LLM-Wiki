@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "ingest-1783960045398-zwrw72",
+    "projectId": "6dfd2b92-b860-4171-a98e-742c537aa48a",
+    "sourcePath": "raw/sources/BM25算法详解.md",
+    "folderContext": "",
+    "status": "processing",
+    "addedAt": 1783960045398,
+    "error": null,
+    "retryCount": 0
+  }
+]

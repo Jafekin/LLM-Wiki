@@ -25,14 +25,14 @@ IDF（Inverse Document Frequency，逆文档频率）是衡量词项在文档集
 
 [[BM25]] 会对查询中的每个词计算或使用相应的 IDF 权重。常见形式为：
 
-\[
+$$
 \operatorname{IDF}(q_i) =
 \ln\left(
 \frac{N - n(q_i) + 0.5}{n(q_i) + 0.5} + 1
 \right)
-\]
+$$
 
-其中，\(N\) 是文档总数，\(n(q_i)\) 是包含词 \(q_i\) 的文档数量。
+其中，$N$ 是文档总数，$n(q_i)$ 是包含词 $q_i$ 的文档数量。
 
 ## 工程注意事项
 

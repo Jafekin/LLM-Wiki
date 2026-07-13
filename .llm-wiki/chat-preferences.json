@@ -1,7 +1,7 @@
 {
   "useWebSearch": true,
   "useAnyTxtSearch": false,
-  "agentMode": "standard",
+  "agentMode": "local_first",
   "retrievalMode": "standard",
   "selectedSkills": [],
   "disabledSkills": []

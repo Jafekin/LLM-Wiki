@@ -58,9 +58,17 @@
     "maxNoteLength": 10000,
     "maxSelectionLength": 10000,
     "showEmojis": true,
-    "fontSize": null
+    "fontSize": 14
   },
   "savedSessions": [
+    {
+      "sessionId": "019f5c4a-b640-7001-b63d-f00f57587556",
+      "agentId": "codex-acp",
+      "cwd": "/Users/jafekin/Documents/LLM-Wiki",
+      "title": "/init",
+      "createdAt": "2026-07-13T16:24:34.761Z",
+      "updatedAt": "2026-07-13T16:27:45.296Z"
+    },
     {
       "sessionId": "019f5a4c-662d-73f2-ab95-d329a13a41cb",
       "agentId": "codex-acp",

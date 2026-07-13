@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1783958978404,
+  "updatedAt": 1783960045032,
   "files": {
     "purpose.md": {
       "hash": "77546dadbea32fdcf671400051e18f56",
@@ -8,9 +8,9 @@
       "mtimeMs": 1783931189885
     },
     "raw/sources/BM25算法详解.md": {
-      "hash": "2996063685a7d10e54ed6f62fc353b40",
-      "size": 10067,
-      "mtimeMs": 1783848850260
+      "hash": "cf2748093bbb918351f34ded533671bd",
+      "size": 10041,
+      "mtimeMs": 1783960044115
     },
     "schema.md": {
       "hash": "74be8ad21cdd66495b0e39508ee783b9",
@@ -23,14 +23,14 @@
       "mtimeMs": 1783958493559
     },
     "wiki/concepts/BM25.md": {
-      "hash": "fb162750b441e2017169e0f04dc8acd3",
+      "hash": "126ad83217c1d9822308fce97a349b3c",
       "size": 2414,
-      "mtimeMs": 1783958977581
+      "mtimeMs": 1783960044109
     },
     "wiki/concepts/IDF.md": {
-      "hash": "f9ca1b3b3bb5ed963ab6ad1f8ded7cf5",
-      "size": 1297,
-      "mtimeMs": 1783958493551
+      "hash": "c311fb384d6bcc3f8734fd8091ed5df3",
+      "size": 1291,
+      "mtimeMs": 1783960044109
     },
     "wiki/concepts/RAG.md": {
       "hash": "9af3bf50f89b3b8e7633d8475f5c4bdf",
@@ -93,14 +93,14 @@
       "mtimeMs": 1783943876793
     },
     "wiki/queries/research-建立中文检索评测与参数调优资料-2026-07-13-160640.md": {
-      "hash": "646878620924313461e721a020b45dbd",
-      "size": 26322,
-      "mtimeMs": 1783958800862
+      "hash": "f51e6889bf42a402624ce396cc39cadf",
+      "size": 26302,
+      "mtimeMs": 1783960044108
     },
     "wiki/queries/research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638.md": {
-      "hash": "58e42b9f288cd6fa8dbc81b8adec5efe",
-      "size": 20817,
-      "mtimeMs": 1783958798247
+      "hash": "d3cf512de5d0364999f9b7f0fad146df",
+      "size": 20785,
+      "mtimeMs": 1783960044107
     },
     "wiki/queries/中文RAG中的BM25如何调优.md": {
       "hash": "93602b55fe8a2949f6e4a7ad10f8691f",
@@ -108,9 +108,9 @@
       "mtimeMs": 1783958493561
     },
     "wiki/sources/BM25算法详解.md": {
-      "hash": "ce8d9162a1d83d3377693c009c1dd584",
+      "hash": "bd86c22704baa9ad5e0630dfdbf7ad44",
       "size": 2817,
-      "mtimeMs": 1783958493547
+      "mtimeMs": 1783960044109
     }
   }
 }
