@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "BM25",
+      "path": "wiki/concepts/BM25.md"
+    },
+    {
+      "basename": "文档长度归一化",
+      "path": "wiki/concepts/文档长度归一化.md"
+    },
+    {
+      "basename": "词频饱和",
+      "path": "wiki/concepts/词频饱和.md"
+    },
+    {
+      "basename": "中文RAG中的BM25如何调优",
+      "path": "wiki/queries/中文RAG中的BM25如何调优.md"
+    },
+    {
+      "basename": "BM25算法详解",
+      "path": "raw/sources/BM25算法详解.md"
+    },
+    {
       "basename": "schema",
       "path": "schema.md"
     }

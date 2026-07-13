@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34c6fe1e438ab0f0",
+        "id": "afb128165a517d16",
         "type": "tabs",
         "children": [
           {
-            "id": "07bac4bdd08ef291",
+            "id": "03a246b75ec7b48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schema.md",
+                "file": "wiki/concepts/BM25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schema"
+              "title": "BM25"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "57958ec49b42bccd",
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +227,26 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "07bac4bdd08ef291",
+  "active": "03a246b75ec7b48e",
   "lastOpenFiles": [
+    "wiki/concepts/文档长度归一化.md",
+    "wiki/queries/research-建立中文检索评测与参数调优资料-2026-07-13-160640.md",
+    "wiki/queries/research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638.md",
+    "wiki/concepts/词频饱和.md",
+    "wiki/queries/中文RAG中的BM25如何调优.md",
+    "wiki/concepts/TF-IDF.md",
+    "wiki/comparisons/bm25-与-tf-idf.md",
+    "wiki/concepts/RAG.md",
+    "wiki/concepts/混合检索.md",
+    "wiki/concepts/重排序.md",
+    "wiki/concepts/向量检索.md",
+    "wiki/concepts/词法检索.md",
+    "wiki/concepts/IDF.md",
+    "wiki/concepts/信息检索.md",
+    "wiki/concepts/BM25.md",
+    "wiki/sources/BM25算法详解.md",
+    "raw/sources/BM25算法详解.md",
+    "schema.md",
     "purpose.md",
     "wiki/synthesis",
     "wiki/sources",
@@ -240,7 +258,6 @@
     "wiki/concepts",
     "wiki/comparisons",
     "wiki",
-    "schema.md",
     "raw/assets",
     "raw/sources",
     "raw",
@@ -248,22 +265,6 @@
     "tmp/wiki/index.md",
     "tmp/wiki/log.md",
     "tmp/schema.md",
-    "tmp/purpose.md",
-    "wiki/concepts/多模态-rag-与跨模态检索.md",
-    "conflict-files-obsidian-git.md",
-    "wiki/sources/zhou-2025-incremental-wavelet-capsules-a-cross-environment-solution-for-wifi-ident.md",
-    "wiki/sources/zhang-2022-a-survey-on-multi-task-learning.md",
-    "wiki/sources/yuan-2026-mkg-rag-leveraging-multimodal-knowledge-graphs-in-retrieval-augmented-ge.md",
-    "wiki/sources/yan-2025-jbjjj8ku.md",
-    "wiki/sources/xu-2023-efficient-yolov8-multi-scale-convnet-for-underwater-object-detection.md",
-    "wiki/sources/wei-2025-a-survey-on-wifi-based-human-identification-scenarios-challenges-and-cur.md",
-    "wiki/sources/wang-2024-tram-global-trajectory-and-motion-of-3d-humans-from-in-the-wild-videos.md",
-    "wiki/sources/wang-2022-utd-yolov5-a-real-time-underwater-targets-detection-method-based-on-atte.md",
-    "wiki/sources/tang-2025-ai-researcher-autonomous-scientific-innovation.md",
-    "wiki/sources/ruder-2017-an-overview-of-multi-task-learning-in-deep-neural-networks.md",
-    "wiki/sources/ramsauer-2021-hopfield-networks-is-all-you-need.md",
-    "wiki/sources/park-2025-vat-kg-knowledge-intensive-multimodal-knowledge-graph-dataset-for-retrie.md",
-    "wiki/sources/misra-2016-cross-stitch-networks-for-multi-task-learning.md",
     "wiki/media/ma-2026-4lhih42d__J4P3FBWC/mineru/images/f61c1b1c2cc8b2fd223bcc2c3f84446cdcdc7c53c6ccaa705c20f972e56a5d57.jpg",
     "wiki/media/ma-2026-4lhih42d__J4P3FBWC/mineru/images/d66695407aba5d1a6c186b2ab36fd87baf0385b15510262c42feb2f24d3de530.jpg",
     "wiki/media/ma-2026-4lhih42d__J4P3FBWC/mineru/images/d61a46f053c5e41106568d6d68f3be70a1e44e91d786e5fd9ac8419d3e714f52.jpg",

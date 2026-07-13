@@ -1,1 +1,144 @@
-[]
+[
+  {
+    "type": "suggestion",
+    "title": "建立中文检索评测与参数调优资料",
+    "description": "建议补充可复现的中文检索评测资料，以验证 BM25、向量检索和混合检索在不同查询类型上的实际表现。",
+    "sourcePath": "/Users/jafekin/Documents/LLM-Wiki/raw/sources/BM25算法详解.md",
+    "affectedPages": [
+      "wiki/queries/中文RAG中的BM25如何调优.md"
+    ],
+    "searchQueries": [
+      "中文 RAG BM25 分词 字符 n-gram 检索评测",
+      "BM25 k1 b 中文语料 参数调优",
+      "hybrid retrieval BM25 vector RRF RAG benchmark Chinese"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e61cbc8f",
+    "resolved": true,
+    "createdAt": 1783958493571,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "suggestion",
+    "title": "补充 Okapi BM25 原始研究与实现变体证据",
+    "description": "现有页面解释了 BM25 的直觉和常见公式，但来源未提供原始论文、版本谱系或实现差异。补充 Okapi BM25 的原始研究、Lucene/Elasticsearch 的 Similarity 实现与 IDF 公式变体，可避免把某一公式或默认参数误写成通用规范。",
+    "sourcePath": "/Users/jafekin/Documents/LLM-Wiki/raw/sources/BM25算法详解.md",
+    "affectedPages": [
+      "wiki/concepts/BM25.md",
+      "wiki/sources/BM25算法详解.md"
+    ],
+    "searchQueries": [
+      "Okapi BM25 Robertson Walker original paper PDF",
+      "Lucene BM25Similarity official documentation k1 b IDF",
+      "Elasticsearch BM25 similarity documentation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-81d04969",
+    "resolved": true,
+    "createdAt": 1783958493571,
+    "resolvedAction": "Queued for research"
+  },
+  {
+    "type": "missing-page",
+    "title": "中文词法分析与检索分析器",
+    "description": "中文 RAG 中 BM25 的效果高度依赖词项切分策略，但现有页面仅将中文分词、字符 n-gram、子词和同义词扩展列为待验证因素，尚无专门页面比较这些策略及其对召回、索引规模和术语匹配的影响。",
+    "sourcePath": "/Users/jafekin/Documents/LLM-Wiki/raw/sources/BM25算法详解.md",
+    "affectedPages": [
+      "wiki/concepts/BM25.md",
+      "wiki/concepts/词法检索.md",
+      "wiki/queries/中文RAG中的BM25如何调优.md"
+    ],
+    "searchQueries": [
+      "中文 BM25 分词 字符 n-gram 检索效果对比",
+      "Chinese information retrieval analyzer BM25 word segmentation character ngram",
+      "Elasticsearch Chinese analyzer BM25 search"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4c6dc7eb",
+    "resolved": true,
+    "createdAt": 1783958493571,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "检索评测指标与端到端 RAG 评估",
+    "description": "现有调优问题列出了 Recall@K、MRR、nDCG、答案正确率、延迟与成本，但没有统一说明这些指标分别衡量召回、排序和端到端回答质量。建立评测指标页面有助于让后续 BM25、向量检索和混合检索比较具备一致的证据标准。",
+    "sourcePath": "/Users/jafekin/Documents/LLM-Wiki/raw/sources/BM25算法详解.md",
+    "affectedPages": [
+      "wiki/queries/中文RAG中的BM25如何调优.md",
+      "wiki/concepts/混合检索.md",
+      "wiki/concepts/RAG.md"
+    ],
+    "searchQueries": [
+      "information retrieval evaluation Recall@K MRR nDCG official tutorial",
+      "RAG evaluation retrieval metrics answer correctness faithfulness",
+      "hybrid retrieval BM25 vector benchmark evaluation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bc7b285c",
+    "resolved": true,
+    "createdAt": 1783958493571,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "confirm",
+    "title": "[suggestion] 几乎所有概念页均仅引用“BM25算法详解.md”，而该来源页的 `authors` 为空、`url` 为空、`venue` 标为“未注",
+    "description": "[suggestion] 几乎所有概念页均仅引用“BM25算法详解.md”，而该来源页的 `authors` 为空、`url` 为空、`venue` 标为“未注明”。建议补充可访问的原始论文、标准文档或权威技术资料，以便核验 BM25 公式、参数范围及其与 TF-IDF、混合检索相关的表述。",
+    "affectedPages": [
+      "sources/BM25算法详解.md",
+      "concepts/BM25.md",
+      "concepts/IDF.md",
+      "concepts/词频饱和.md",
+      "concepts/文档长度归一化.md"
+    ],
+    "options": [
+      {
+        "label": "打开编辑",
+        "action": "open:补充可核验的权威来源"
+      },
+      {
+        "label": "跳过",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4945348a",
+    "resolved": false,
+    "createdAt": 1783958964127
+  }
+]

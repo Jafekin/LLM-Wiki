@@ -1,31 +1,116 @@
 {
   "version": 1,
-  "updatedAt": 1783943878630,
+  "updatedAt": 1783958978404,
   "files": {
     "purpose.md": {
       "hash": "77546dadbea32fdcf671400051e18f56",
       "size": 324,
       "mtimeMs": 1783931189885
     },
+    "raw/sources/BM25算法详解.md": {
+      "hash": "2996063685a7d10e54ed6f62fc353b40",
+      "size": 10067,
+      "mtimeMs": 1783848850260
+    },
     "schema.md": {
       "hash": "74be8ad21cdd66495b0e39508ee783b9",
       "size": 2078,
       "mtimeMs": 1783931189882
     },
+    "wiki/comparisons/bm25-与-tf-idf.md": {
+      "hash": "fe5a0c6c70fcfe935e3f19868f77261a",
+      "size": 1620,
+      "mtimeMs": 1783958493559
+    },
+    "wiki/concepts/BM25.md": {
+      "hash": "fb162750b441e2017169e0f04dc8acd3",
+      "size": 2414,
+      "mtimeMs": 1783958977581
+    },
+    "wiki/concepts/IDF.md": {
+      "hash": "f9ca1b3b3bb5ed963ab6ad1f8ded7cf5",
+      "size": 1297,
+      "mtimeMs": 1783958493551
+    },
+    "wiki/concepts/RAG.md": {
+      "hash": "9af3bf50f89b3b8e7633d8475f5c4bdf",
+      "size": 1265,
+      "mtimeMs": 1783958493558
+    },
+    "wiki/concepts/TF-IDF.md": {
+      "hash": "9c0284836f2444ec4b21e76a26047c84",
+      "size": 947,
+      "mtimeMs": 1783958971961
+    },
+    "wiki/concepts/信息检索.md": {
+      "hash": "3e2a991d306a169cedd97023ee87fb58",
+      "size": 1076,
+      "mtimeMs": 1783958493550
+    },
+    "wiki/concepts/向量检索.md": {
+      "hash": "c82a57e14fb9b643d324498ba8f10a56",
+      "size": 1012,
+      "mtimeMs": 1783958493555
+    },
+    "wiki/concepts/文档长度归一化.md": {
+      "hash": "fbe931c0a39bbeb2e34e93d81c31e385",
+      "size": 1234,
+      "mtimeMs": 1783958493553
+    },
+    "wiki/concepts/混合检索.md": {
+      "hash": "4b67563fa80cb53363d3f069e6d307e5",
+      "size": 1418,
+      "mtimeMs": 1783958976485
+    },
+    "wiki/concepts/词法检索.md": {
+      "hash": "84e410d4762193a33f6d0e8d2ec8f1d1",
+      "size": 1445,
+      "mtimeMs": 1783958493554
+    },
+    "wiki/concepts/词频饱和.md": {
+      "hash": "1099066086273dc81bf3cbd02577f002",
+      "size": 1174,
+      "mtimeMs": 1783958493552
+    },
+    "wiki/concepts/重排序.md": {
+      "hash": "6ce016f35a9bdf708367894955a4e900",
+      "size": 1002,
+      "mtimeMs": 1783958493556
+    },
     "wiki/index.md": {
-      "hash": "d91e1fb23c75e4ae861b00fd75a7aee1",
-      "size": 93,
-      "mtimeMs": 1783943876792
+      "hash": "a90b56a668fc58dd3b764fe487669224",
+      "size": 749,
+      "mtimeMs": 1783958493567
     },
     "wiki/log.md": {
-      "hash": "8867d904561b9f4bb0232ba21565a0cb",
-      "size": 49,
-      "mtimeMs": 1783931189874
+      "hash": "41a483141966eb04e768bfafadfa0c0d",
+      "size": 271,
+      "mtimeMs": 1783958493563
     },
     "wiki/overview.md": {
       "hash": "3a6b8de12b70516be93fe9f2f947b45c",
       "size": 210,
       "mtimeMs": 1783943876793
+    },
+    "wiki/queries/research-建立中文检索评测与参数调优资料-2026-07-13-160640.md": {
+      "hash": "646878620924313461e721a020b45dbd",
+      "size": 26322,
+      "mtimeMs": 1783958800862
+    },
+    "wiki/queries/research-补充-okapi-bm25-原始研究与实现变体证据-2026-07-13-160638.md": {
+      "hash": "58e42b9f288cd6fa8dbc81b8adec5efe",
+      "size": 20817,
+      "mtimeMs": 1783958798247
+    },
+    "wiki/queries/中文RAG中的BM25如何调优.md": {
+      "hash": "93602b55fe8a2949f6e4a7ad10f8691f",
+      "size": 1611,
+      "mtimeMs": 1783958493561
+    },
+    "wiki/sources/BM25算法详解.md": {
+      "hash": "ce8d9162a1d83d3377693c009c1dd584",
+      "size": 2817,
+      "mtimeMs": 1783958493547
     }
   }
 }

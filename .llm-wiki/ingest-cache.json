@@ -1,3 +1,26 @@
 {
-  "entries": {}
+  "entries": {
+    "BM25算法详解.md": {
+      "hash": "d395076d90b043506164a1105aba405ff2e1ebb76cdb90eedb4997691d57bcd9",
+      "timestamp": 1783958493579,
+      "filesWritten": [
+        "wiki/sources/BM25算法详解.md",
+        "wiki/concepts/BM25.md",
+        "wiki/concepts/信息检索.md",
+        "wiki/concepts/IDF.md",
+        "wiki/concepts/词频饱和.md",
+        "wiki/concepts/文档长度归一化.md",
+        "wiki/concepts/词法检索.md",
+        "wiki/concepts/向量检索.md",
+        "wiki/concepts/重排序.md",
+        "wiki/concepts/混合检索.md",
+        "wiki/concepts/RAG.md",
+        "wiki/comparisons/bm25-与-tf-idf.md",
+        "wiki/concepts/TF-IDF.md",
+        "wiki/queries/中文RAG中的BM25如何调优.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    }
+  }
 }
