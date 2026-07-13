@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "workspace:export-pdf",
+      "icon": "arrow-down-circle",
+      "name": "导出为 PDF",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:previous-tab",
+      "icon": "lucide-arrow-left",
+      "name": "转到上一个标签",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:next-tab",
+      "icon": "lucide-arrow-right",
+      "name": "转到下一个标签",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

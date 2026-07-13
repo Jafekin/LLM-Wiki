@@ -1,0 +1,26 @@
+[
+  {
+    "id": "msg_1783934383671_1_cri1nv",
+    "role": "user",
+    "content": "test model",
+    "timestamp": 1783934383671,
+    "conversationId": "conv_1783934383670_fewc9h"
+  },
+  {
+    "id": "msg_1783934439229_2_orjmia",
+    "role": "assistant",
+    "content": "模型测试成功，我已就绪。请告诉我你想测试的具体能力或问题。",
+    "timestamp": 1783934439229,
+    "conversationId": "conv_1783934383670_fewc9h",
+    "references": [],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "101 skill(s) available",
+        "status": "success"
+      }
+    ]
+  }
+]
